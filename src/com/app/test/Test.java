@@ -6,5 +6,6 @@ public class Test {
   {
 	  
 	  System.out.println("DOne");
+	  System.out.println("Fine");
   }
 }
